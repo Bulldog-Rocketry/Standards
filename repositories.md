@@ -1,12 +1,20 @@
 # Repository Guidelines
 
-## Naming
+## Metadata
+
+### Names
 
 -   Repositories should be named in all lowercase with dashes separating words.
     -   Good Example: `discord-bot`
     -   Bad Example: `RocketryBot`
 -   Do not include the words "bulldog" or "rocketry" in the repository name; they are already part of the organization name, and so are redundant.
     -   When taken as a whole, the repository name will read as `Bulldog-Rocketry/my-repository-name`
+
+### Description
+
+-   Repositories should contain a brief description of the repository's purpose and usage.
+    -   This should be included in the `README.md` file.
+    -   This should also be included in the repository's description on GitHub.
 
 ## Contents
 
