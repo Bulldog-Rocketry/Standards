@@ -20,12 +20,12 @@
 
 ## Commits
 
-- Commits should be made under your UMD email address and your full name.
-  - To change your email configuration, use the following command:
-    ```bash
-    git config user.email "internetid123@d.umn.edu"
-    ```
-  - To change your name configuration, use the following command:
-      ```bash
-      git config user.name "Firstname Lastname"
-      ```
+-   Commits should be made under your UMD email address and your full name.
+    -   To change your email configuration, use the following command:
+        ```bash
+        git config user.email "internetid123@d.umn.edu"
+        ```
+    -   To change your name configuration, use the following command:
+        ```bash
+        git config user.name "Firstname Lastname"
+        ```

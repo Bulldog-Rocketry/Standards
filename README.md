@@ -4,7 +4,18 @@ This repository contains the code format standards and guidelines for Bulldog Ro
 
 This file serves as a table of contents.
 
-- [Repository Guidelines](repositories.md)
-- [Javascript Guidelines](javascript.md)
-- [Python Guidelines](python.md)
-- [C++ Guidelines](cpp.md)
+### All Projects
+
+-   [Repository Guidelines](repositories.md)
+    -   These guidelines apply to the structure and contents of all GitHub repositories.
+-   [General Guidelines](general.md)
+    -   These guidelines apply to all projects, regardless of language or environment.
+
+### Language-Specific Guidelines
+
+-   [Javascript Guidelines](javascript.md)
+    -   These are guidelines specific to JavaScript projects.
+-   [Python Guidelines](python.md)
+    -   These are guidelines specific to Python projects.
+-   [C++ Guidelines](cpp.md)
+    -   These are guidelines specific to C++ projects.
