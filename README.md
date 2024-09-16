@@ -4,18 +4,23 @@ This repository contains the code format standards and guidelines for Bulldog Ro
 
 This file serves as a table of contents.
 
-### All Projects
+### General Project Guidelines
 
--   [Repository Guidelines](repositories.md)
-    -   These guidelines apply to the structure and contents of all GitHub repositories.
--   [General Guidelines](general.md)
+-   [Repository Guidelines](general/repositories.md)
+    -   These guidelines apply to the structure and contents of all Bulldog Rocketry repositories.
+-   [Contributing Guidelines](general/contributing.md)
+    -   These guidelines outline the flow and requirements of contributing to Bulldog Rocketry repositories.
+
+### Formatting, Testing, and Documentation
+
+-   [All-Language Guidelines](general/all-languages.md)
     -   These guidelines apply to all projects, regardless of language or environment.
-
-### Language-Specific Guidelines
-
--   [Javascript Guidelines](javascript.md)
+-   [Javascript Guidelines](languages/javascript.md)
     -   These are guidelines specific to JavaScript projects.
--   [Python Guidelines](python.md)
+-   [Python Guidelines](languages/python.md)
     -   These are guidelines specific to Python projects.
--   [C++ Guidelines](cpp.md)
-    -   These are guidelines specific to C++ projects.
+
+### Examples
+
+-   [Javascript Example Configuration](examples/javascript)
+-   [Python Example Configuration](examples/python)
