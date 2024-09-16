@@ -1,5 +1,14 @@
 # Python Guidelines
 
+## Table of Contents
+
+-   [Python Guidelines](#python-guidelines)
+    -   [Table of Contents](#table-of-contents)
+    -   [Dependencies](#dependencies)
+    -   [Formatting](#formatting)
+    -   [Documentation](#documentation)
+    -   [Testing](#testing)
+
 ## Dependencies
 
 -   Store dependencies in a virtual environment (referred to as `venv`)
@@ -10,10 +19,11 @@
 
 ## Formatting
 
--   Use `Black` to format your code.
--   Use `isort` to sort your imports.
+-   Use [`Black`](https://github.com/psf/black) to format your code.
+-   Use [`isort`](https://github.com/PyCQA/isort) to sort your imports.
     -   So that `isort` and `black` don't conflict, run it with `isort --profile black`.
 -   Use clean coding practices in accordance with PEP: https://peps.python.org/
+-   These can and should all be configured with a `pyproject.toml` - [example](examples/python/pyproject.toml)
 
 ## Documentation
 
